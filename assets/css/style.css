@@ -97,6 +97,7 @@ h1 {
     font-weight: bold !important;
 }
 
+
 .mainCard__header__hr {
     margin: 0;
     padding: 0;
@@ -190,7 +191,7 @@ a.portfolio__link:hover {
 /*------------contact------------*/
 
 input {
-    width: 100%;
+    width: 98%;
     margin-bottom: 15px;
     border: 1px solid #dedede;
     padding: 8px;
