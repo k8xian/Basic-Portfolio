@@ -177,6 +177,7 @@ a.inline__textLink:hover {
     background-color: #4aaaa5;
     display: block;
     font-size: 17px;
+    color: white;
 }
 
 a.portfolio__link:visited {
